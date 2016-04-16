@@ -1,0 +1,28 @@
+name: thevioletburning
+favicon: null
+layout_spectrum: 0.4009511328767985
+typography_spectrum: 0.9505188390612602
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9092207427602261
+  lightness: 0.32149985572323203
+  saturation: 0.6684462241828442
+  rhythmicContrast: 0.09359883167780936
+purpose: []
